@@ -2,7 +2,7 @@ title:             SecureX Blog
 email:             ensdotkbts@gmail.com
 description:       Personal blog
 author:            Enes KABATAŞ
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "http://securex.github.io"
 
 # Social Profiles
